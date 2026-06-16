@@ -47,4 +47,10 @@ As a **Cyber Security student**, this project focuses on:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/MuhammadShoaibBhatti/Smart-Health-Insurance.git](https://github.com/MuhammadShoaibBhatti/Smart-Health-Insurance.git)
+   git clone https://github.com/MuhammadShoaibBhatti/Smart-Health-Insurance.git
+   cd Smart-Health-Insurance
+   javac SmartHealthInsurance.java
+   java SmartHealthInsurance
+
+   🔑 Default Credentials for Testing:
+Username: admin | Password: admin | Role: Admin
